@@ -150,3 +150,5 @@ __settings__
 __user_data__
 typings
 .sites
+.profiles
+.settings
